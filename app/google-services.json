@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501835329152",
+    "firebase_url": "https://pushasila.firebaseio.com",
+    "project_id": "pushasila",
+    "storage_bucket": "pushasila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501835329152:android:de26c8ee5ff36785",
+        "android_client_info": {
+          "package_name": "com.example.zakiri.asila_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501835329152-eafnvqo2ec4f4gs8c8q5c83mp2egbavu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASsT_cPPl28x5Y-lVsLrasoD7kIh8azw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
